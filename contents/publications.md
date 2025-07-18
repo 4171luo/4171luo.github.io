@@ -2,6 +2,6 @@
 
 ##### 机器学习
 
-- <strong>暂时更新出以下作品</strong> [[Code]][text](https://github.com/4171luo/machine_learning)
+- <strong>暂时更新出以下作品</strong> [[Code]](https://github.com/4171luo/machine_learning)
 
 
