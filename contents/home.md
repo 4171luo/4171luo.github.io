@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![4171luo](https://img.shields.io/badge/4171luo-github-blue?logo=github)](https://github.com/4171luo)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+
 
 #### Contact
 
